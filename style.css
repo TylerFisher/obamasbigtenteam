@@ -1,0 +1,16 @@
+body {
+    background: url(obamagocats.gif) repeat center center;
+    background-size: 320px 180px;
+}
+
+marquee {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+}
+
+a {
+    color: white;
+    text-transform: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+}
